@@ -9,8 +9,8 @@
     "Thibault Malbranche <malbranche.thibault@gmail.com>"
   ],
   "license": "MIT",
-  "version": "11.23.1",
-  "homepage": "https://github.com/react-native-webview/react-native-webview#readme",
+  "version": "1.0.0",
+  "homepage": "https://github.com/etkhrto/react-native-webview#readme",
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios --project-path example/ios",
@@ -72,7 +72,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-native-webview/react-native-webview.git"
+    "url": "https://github.com/etkhrto/react-native-webview.git"
   },
   "files": [
     "android",
